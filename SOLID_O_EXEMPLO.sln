@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAO_RESPEITANDO_O_SOLID", "NAO_RESPEITANDO_O_SOLID\NAO_RESPEITANDO_O_SOLID.csproj", "{958C7909-5278-4B8A-82F3-3A8D751CD002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESPEITANDO_O_SOLID", "RESPEITANDO_O_SOLID\RESPEITANDO_O_SOLID.csproj", "{0260DC4C-1ED7-4D07-BCAA-4E0C182DD220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958C7909-5278-4B8A-82F3-3A8D751CD002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958C7909-5278-4B8A-82F3-3A8D751CD002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958C7909-5278-4B8A-82F3-3A8D751CD002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958C7909-5278-4B8A-82F3-3A8D751CD002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0260DC4C-1ED7-4D07-BCAA-4E0C182DD220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0260DC4C-1ED7-4D07-BCAA-4E0C182DD220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0260DC4C-1ED7-4D07-BCAA-4E0C182DD220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0260DC4C-1ED7-4D07-BCAA-4E0C182DD220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02545CF7-1E5F-4208-ACE6-7FA90445B6B4}
+	EndGlobalSection
+EndGlobal
